@@ -11,5 +11,7 @@
 
 3. Go
 （1）基础夯实
-（2）框架搭建
+（2）框架搭建: beego, mysql, redis, mq, mongodb
 （3）调试方法
+
+4. Ruby+Rails
